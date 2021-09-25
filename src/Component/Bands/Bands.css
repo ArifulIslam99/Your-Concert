@@ -1,0 +1,11 @@
+.main{
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    background-color: lightcyan;
+}
+.band-info{
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}

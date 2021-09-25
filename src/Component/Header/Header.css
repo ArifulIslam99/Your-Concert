@@ -1,0 +1,10 @@
+.header{
+    text-align: center;
+    background-color:lightcyan;
+    padding: 10px 10px;
+}
+
+.logo{
+    height: 200px;
+    border-radius: 50%;
+}
