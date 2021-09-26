@@ -34,7 +34,7 @@ const Cart = (props) => {
         <div className="cart">
            <h4> <span className="title-cart">Band Added:</span> {count} </h4>
            <h6> <span className="title-cart">Total Cost:</span> ${total}</h6> 
-           <h6> <span className="title-cart">List Of Bands:</span> </h6>
+           <h6> <span className="title-cart">List Of Added Bands:</span> </h6>
             {
                 bandName.map(band => 
                     
