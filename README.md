@@ -4,7 +4,7 @@
  
  ## Budget: 10M 
  
- Your Budget Should Not Excesive more than 10M. 
+ Your Budget Should Not exceed more than 10M. 
  
  ### Availibilty 
  
