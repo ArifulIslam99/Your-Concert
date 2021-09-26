@@ -1,14 +1,13 @@
 import React from 'react';
+import "./Bandlist.css"
 
 const Bandlist = (props) => {
     console.log(props)
     return (
-        <div> 
+        <div className="Bandlist"> 
             
             {
-                <li>
-                {props.band}
-              </li>
+                <li> {props.band}</li>
             }
         </div>
     );
