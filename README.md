@@ -8,11 +8,11 @@ Visit the Website https://your-concert.netlify.app/
  
  Your Budget Should Not exceed more than 10M. 
  
- ### Availibilty 
+ ## Availibilty 
  
  All the bands are not available in this summer. Their Schedule is already booked. Try Others. 
  
- #### Cart List
+ ## Cart List
  
  In Cart list you can see the band you added and total cost to hire them. You Cant add a band more than one. 
 
